@@ -1,9 +1,7 @@
-[README.md](https://github.com/user-attachments/files/28155377/README.md)
-## Hi there 👋
 <h1 align="center">Hi, I'm Abraham 👋</h1>
 
 <p align="center">
-  <b>Software Engineer · Backend-focused · Building with modern web technologies</b>
+  <b>Software Engineer · Frontend Engnr growing into Backend & System Design</b>
 </p>
 
 <p align="center">
@@ -15,9 +13,10 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently building **[BRAUDLE](http://abraham-dev-red.vercel.app/)** — an AI-powered personal tutor web app
-- 🌱 Deepening my expertise in **backend engineering** — APIs, databases, and scalable architectures
-- 💡 Passionate about building products that are useful, reliable, and well-crafted
+- 💻 Software Engineer with a frontend foundation, actively growing into backend engineering
+- 🏗️ Currently building **BRAUDLE** — an AI-powered personal tutor web app
+- 📐 Exploring system design — monoliths, microservices, auth services, and scalable architectures
+- 🌱 On a journey to understand how large, real-world systems are designed and built
 - 📍 Based in Lagos, Nigeria
 
 ---
@@ -46,14 +45,21 @@
 
 ---
 
-### 🚀 Featured Project
+### 📖 Currently Learning
 
-#### BRAUDLE — AI-Powered Personal Tutor
-> An intelligent web app that helps users learn through AI-driven Teach Mode, quizzes, PDF uploads, and session summaries.
+- Backend engineering patterns & best practices
+- System design — monolithic vs microservices architectures
+- Auth services & identity management
+- Building scalable, well-structured APIs
 
-**Stack:** Next.js · TypeScript · Node.js · Express · MongoDB · Claude API
+---
 
-🔗 [Live App](http://abraham-dev-red.vercel.app/)
+### 🏆 GitHub Achievements
+
+[![Pull Shark](https://img.shields.io/badge/Pull%20Shark%20x3-0969DA?style=flat-square&logo=github&logoColor=white)](https://github.com/Abraham123-dev?achievement=pull-shark&tab=achievements)
+[![Pair Extraordinaire](https://img.shields.io/badge/Pair%20Extraordinaire-6E40C9?style=flat-square&logo=github&logoColor=white)](https://github.com/Abraham123-dev?achievement=pair-extraordinaire&tab=achievements)
+[![Quickdraw](https://img.shields.io/badge/Quickdraw-E3B341?style=flat-square&logo=github&logoColor=white)](https://github.com/Abraham123-dev?achievement=quickdraw&tab=achievements)
+[![YOLO](https://img.shields.io/badge/YOLO-EA4A5A?style=flat-square&logo=github&logoColor=white)](https://github.com/Abraham123-dev?achievement=yolo&tab=achievements)
 
 ---
 
@@ -69,15 +75,9 @@
 
 ### 🤝 Let's Connect
 
-I'm open to collaborations, backend-focused projects, and interesting conversations about software engineering.
+Always open to connecting with other engineers, learning from different perspectives, and collaborating on meaningful projects.
 
 <p>
   <a href="http://abraham-dev-red.vercel.app/">🌐 Portfolio</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/abraham-oluwaniyi-888534366">💼 LinkedIn</a>
-</p>
-
----
-
-<p align="center">
-  <i>"Write code that is easy to delete, not easy to extend." — Tef</i>
 </p>
