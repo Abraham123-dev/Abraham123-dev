@@ -17,7 +17,6 @@
 - 🏗️ Currently building **BRAUDLE** — an AI-powered personal tutor web app
 - 📐 Exploring system design — monoliths, microservices, auth services, and scalable architectures
 - 🌱 On a journey to understand how large, real-world systems are designed and built
-- 📍 Based in Lagos, Nigeria
 
 ---
 
